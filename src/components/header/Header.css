@@ -1,49 +1,26 @@
 header {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  padding: 2rem 0;
+  padding: 2rem 15rem;
 }
 
 .logo img {
-  width: 3rem;
+  width: 2.4rem;
   height: auto;
-  margin-right: 1rem;
+  margin-right: 0.5rem;
 }
 .logo h1 {
-  font-size: 2.5rem;
-  color: white;
+  font-size: 2.2rem;
+  color: #2D434E;
   font-weight: 400;
-  font-family: "Pacifico", cursive;
+  font-family: "Nunito", sans-serif;
 }
 
 .navbar a {
-  margin-right: 1.5rem;
-  color: rgba(255, 255, 255, 0.7);
+  margin-right: 2rem;
+  color: rgb(50, 51, 62);
   font-weight: 400;
-  font-size: 1.1rem;
+  font-size: 1.075rem;
   position: relative;
-}
-.navbar a.active {
-  color: white;
 }
 .navbar a:last-child {
   margin-right: 0;
-}
-
-.signBtn {
-  border: 2px solid white;
-  padding: 0.8rem 1.4rem;
-  border-radius: 2rem;
-  cursor: pointer;
-  transition: all 0.3s;
-}
-.signBtn:hover {
-  background-color: rgba(255, 255, 255, 0.3);
-}
-.signBtn h1 {
-  color: white;
-  font-size: 1.1rem;
-  font-weight: 400;
 }
