@@ -1,24 +1,29 @@
+.header-container {
+  padding: 0 15rem;
+}
+
 header {
-  padding: 2rem 15rem;
+  padding: 1.8rem 0;
+  border-bottom: 1px solid #00000026;
 }
 
 .logo img {
-  width: 2.4rem;
+  width: 2rem;
   height: auto;
   margin-right: 0.5rem;
 }
 .logo h1 {
-  font-size: 2.2rem;
-  color: #2D434E;
+  font-size: 2rem;
+  color: #2d434e;
   font-weight: 400;
   font-family: "Nunito", sans-serif;
 }
 
 .navbar a {
   margin-right: 2rem;
-  color: rgb(50, 51, 62);
+  color: #0000009a;
   font-weight: 400;
-  font-size: 1.075rem;
+  font-size: 1.08rem;
   position: relative;
 }
 .navbar a:last-child {
