@@ -35,7 +35,7 @@ header {
 
 .signUp_btn {
   background-color: white;
-  padding: 0.8rem 1.6rem;
+  padding: 0.8rem 1.4rem;
   border-radius: 1.6rem;
   color: #000000;
   font-size: 1.05rem;
@@ -46,4 +46,11 @@ header {
 .signUp_btn:hover {
   border: 1px solid #000000;
   box-shadow: 1rem 1rem 3rem rgba(0, 0, 0, 0.12);
+}
+
+.signUp_btn svg {
+  margin-left: 0.4rem;
+  width: 1.15rem;
+  color: black;
+  height: auto;
 }

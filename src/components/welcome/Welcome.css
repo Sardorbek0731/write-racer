@@ -25,15 +25,21 @@
   margin-right: 1.2rem;
   background-color: #2d434e;
   color: white;
-  padding: 0.8rem 1.6rem;
+  padding: 0.8rem 1.4rem;
   border-radius: 1.6rem;
   font-size: 1.05rem;
+}
+.welcome_signUp_btn svg {
+  margin-left: 0.4rem;
+  width: 1.15rem;
+  color: white;
+  height: auto;
 }
 
 .race_try_btn {
   background-color: #ffffff;
   color: black;
-  padding: 0.8rem 1.6rem;
+  padding: 0.8rem 1.4rem;
   border-radius: 1.6rem;
   font-size: 1.05rem;
   box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.07);

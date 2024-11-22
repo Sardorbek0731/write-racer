@@ -2,7 +2,7 @@ import "./Advantages.css";
 
 function Advantages(): JSX.Element {
   return (
-    <section>
+    <section className="advantages">
       <div className="container">Advantages</div>
     </section>
   );
